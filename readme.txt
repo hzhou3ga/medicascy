@@ -1,4 +1,4 @@
-Linux OS is required 
+Linux OS, 8GB memory are required 
 Need to install scilearn python package
 
 if  you have anac module installed:
