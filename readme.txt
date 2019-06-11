@@ -1,5 +1,5 @@
 Linux OS is required 
-Need to install scilearn python packageo
+Need to install scilearn python package
 
 if  you have anac module installed:
 
